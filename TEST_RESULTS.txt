@@ -1,0 +1,18 @@
+PROJECT 1 - MCO1 AUTOMATED TEST
+==================================================
+Compiling Java source files...
+Java compilation: PASS
+
+Test 1: PASS - Normal case (Surplus)
+Test 2: PASS - Balanced budget
+Test 3: PASS - Shortage
+Test 4: PASS - Surplus with repeating decimal
+Test 5: PASS - Centavo rounding stress test
+Test 6: PASS - Invalid input - zero students
+Test 7: PASS - Invalid input - negative expense
+Test 8: PASS - Invalid input - non-numeric expense
+Test 9: PASS - Invalid input - empty event name
+Test 10: PASS - Invalid input - NaN and Infinity
+
+Result: 10/10 test cases matched exactly.
+Java and Python produced identical complete console output for every case.

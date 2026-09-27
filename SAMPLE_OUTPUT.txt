@@ -1,0 +1,37 @@
+========================================
+  STUDENT EVENT BUDGET & CONTRIBUTION
+             SYSTEM
+========================================
+
+Please enter the event details.
+
+Event Name: Number of Students: Food Expense (₱): Venue Expense (₱): Transportation Expense (₱): Materials/Supplies Expense (₱): Other Expenses (₱): Planned Contribution per Student (₱): 
+----------------------------------------
+     STUDENT EVENT BUDGET SUMMARY
+----------------------------------------
+
+Event Name        : BSCS Student Seminar
+Number of Students: 30
+
+EXPENSES
+  Food             : ₱4,500.00
+  Venue            : ₱1,500.00
+  Transportation   : ₱1,000.00
+  Materials/Supply : ₱800.00
+  Other            : ₱500.00
+  ------------------------------------
+  Total Expenses   : ₱8,300.00
+
+CONTRIBUTION
+  Per Student      : ₱300.00
+  Total Collected  : ₱9,000.00
+
+RESULT
+  Required Contribution per Student : ₱276.67
+  Budget Difference                 : ₱700.00
+  Budget Status                     : SURPLUS
+  Additional Amount Needed          : ₱0.00
+  Remaining Balance                 : ₱700.00
+----------------------------------------
+Compute another event? (Y/N): 
+Thank you for using the system. Good luck with your event!
